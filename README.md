@@ -1,7 +1,7 @@
 # Final-Project
 Repository and associated files for LHL Bootcamp Final project: New Vehicle Recommender Engine.
 
-Data files scraped from Driving.ca, classifier algorithm, recommender engine and streamlit web app for final project for the LHL Data Bootcamp.  The project will classify and recommend the top 5 new car make and models using Euclydian Distance based on top selected features.<br />
+Data files scraped from Driving.ca, classifier algorithm, recommender engine and streamlit web app for final project for the LHL Data Bootcamp.  <br /><br />The project will classify and recommend the top 5 new car make and models using Euclydian Distance based on top selected features:<br />
   -Price <br />
   -Body Style <br />
   -Seats <br />
