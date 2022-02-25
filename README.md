@@ -18,4 +18,6 @@ Data files scraped from Driving.ca, classifier algorithm, recommender engine and
   -Fuel capacity <br />
   -Battery size <br />
   -Range (kms) 
-  
+ <br /> <br />
+ 
+The model can be deployed via a web app [HERE](https://share.streamlit.io/jeepofun/final-project/main/app.py)
